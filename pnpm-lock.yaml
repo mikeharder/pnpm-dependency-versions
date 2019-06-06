@@ -1,0 +1,20 @@
+dependencies:
+  pad-left: 2.1.0
+lockfileVersion: 5
+packages:
+  /pad-left/2.1.0:
+    dependencies:
+      repeat-string: 1.6.0
+    dev: false
+    engines:
+      node: '>=0.10.0'
+    resolution:
+      integrity: sha512-HJxs9K9AztdIQIAIa/OIazRAUW/L6B9hbQDxO4X07roW3eo9XqZc2ur9bn1StH9CnbbI9EgvejHQX7CBpCF1QA==
+  /repeat-string/1.6.0:
+    dev: false
+    engines:
+      node: '>=0.10'
+    resolution:
+      integrity: sha512-/xwRzC1oC1E9C7SxHF786ThdmCtKNIB72ueAMPOXRilDPEMHMtoXwqYsPbgjaC32Ps3O5AuVPs+BW4pDVczjvQ==
+specifiers:
+  pad-left: 2.1.0
